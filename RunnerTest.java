@@ -11,7 +11,5 @@ import org.junit.runner.RunWith;
         snippets = SnippetType.CAMELCASE
 )
 public class RunnerTest {
-    RunnerTest(){
-        System.setProperty("webdriver.gecko.driver","C:\\Users\\User\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe");
-    }
+  
 }
